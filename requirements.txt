@@ -43,3 +43,6 @@ tavily-python #tavily search engine
 pyautogen #microsoft automous assistants
 opencv-python
 Pillow
+PyPDF2
+python-docx
+duckduckgo-search
